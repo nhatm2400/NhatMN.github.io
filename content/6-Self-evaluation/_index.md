@@ -1,38 +1,39 @@
 ---
-title: "Self-Assessment"
+title: "Self-Evaluation"
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+During the 12 weeks of the **AWS First Cloud Journey** program, I had the opportunity to study and directly practice core AWS services in a professional working environment. I built a strong technical foundation through hands-on labs with EC2, VPC, S3, Cloud9, IAM, RDS, CloudWatch, and DynamoDB, covering infrastructure deployment, security configuration, system monitoring, and operational optimization. I also completed advanced exercises such as VPN Site-to-Site, Transit Gateway, VPC Peering, VPC Endpoints, ElastiCache (Redis), and VM Migration (On-premise ↔ AWS). Additionally, I deployed static websites using S3 + CloudFront and installed WordPress following a public–private subnet architecture. These experiences strengthened my understanding of AWS resource organization, networking mechanisms, security models, and real-world cloud operations.
 
-During my internship at **[Company/Organization Name]** from **[start date]** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in **[briefly describe the main project or task]**, through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+I also participated in developing the **Smart Contract Assistant** application, where I gained practical experience across multiple dimensions:
 
-In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
+* **Technical Skills:** I learned how to operate and integrate core AWS services such as AWS Lambda, API Gateway, and DynamoDB; practiced Infrastructure as Code (IaC) deployment; and built a CI/CD pipeline to automate testing and deployment.
 
-To objectively reflect on my internship period, I would like to evaluate myself based on the following criteria:
+* **Mindset:** I developed a scalable and stable system design mindset, and began applying cloud cost optimization strategies.
 
-| No. | Criteria                            | Description                                                                                      | Good | Fair | Average |
-| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | ---- | ---- | ------- |
-| 1   | **Professional knowledge & skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, work quality | ✅    | ☐    | ☐       |
-| 2   | **Ability to learn**                | Ability to absorb new knowledge and learn quickly                                                | ☐    | ✅    | ☐       |
-| 3   | **Proactiveness**                   | Taking initiative, seeking out tasks without waiting for instructions                            | ✅    | ☐    | ☐       |
-| 4   | **Sense of responsibility**         | Completing tasks on time and ensuring quality                                                    | ✅    | ☐    | ☐       |
-| 5   | **Discipline**                      | Adhering to schedules, rules, and work processes                                                 | ☐    | ☐    | ✅       |
-| 6   | **Progressive mindset**             | Willingness to receive feedback and improve oneself                                              | ☐    | ✅    | ☐       |
-| 7   | **Communication**                   | Presenting ideas and reporting work clearly                                                      | ☐    | ✅    | ☐       |
-| 8   | **Teamwork**                        | Working effectively with colleagues and participating in teams                                   | ✅    | ☐    | ☐       |
-| 9   | **Professional conduct**            | Respecting colleagues, partners, and the work environment                                        | ✅    | ☐    | ☐       |
-| 10  | **Problem-solving skills**          | Identifying problems, proposing solutions, and showing creativity                                | ☐    | ✅    | ☐       |
-| 11  | **Contribution to project/team**    | Work effectiveness, innovative ideas, recognition from the team                                  | ✅    | ☐    | ☐       |
-| 12  | **Overall**                         | General evaluation of the entire internship period                                               | ✅    | ☐    | ☐       |
+* **Soft Skills:** I improved teamwork in an Agile/Scrum environment, enhanced task management, coordination, and transparent progress reporting.
 
-### Needs Improvement
+To objectively reflect on my internship performance, I provide the following self-evaluation:
 
-* Strengthen discipline and strictly comply with the rules and regulations of the company or any organization  
-* Improve problem-solving thinking  
-* Enhance communication skills in both daily interactions and professional contexts, including handling situations effectively
+| No. | Criteria                          | Description                                                                                       | Good | Fair | Average |
+| --- | --------------------------------- | ------------------------------------------------------------------------------------------------- | ---- | ---- | -------- |
+| 1   | **Technical Knowledge & Skills**   | Understanding the field, practical application, tool proficiency, work quality                   | ✅    | ☐    | ☐        |
+| 2   | **Learning Ability**               | Ability to absorb new knowledge and learn quickly                                                | ✅    | ☐    | ☐        |
+| 3   | **Proactiveness**                  | Initiative in problem-solving and completing tasks without waiting for direction                | ✅    | ☐    | ☐        |
+| 4   | **Responsibility**                 | Completing tasks on time with consistent quality                                                 | ✅    | ☐    | ☐        |
+| 5   | **Discipline**                     | Compliance with schedules, rules, and work processes                                             | ☐    | ✅    | ☐        |
+| 6   | **Growth Mindset**                 | Willingness to accept feedback and self-improve                                                  | ✅    | ☐    | ☐        |
+| 7   | **Communication**                  | Ability to articulate ideas and report clearly                                                   | ☐    | ✅    | ☐        |
+| 8   | **Team Collaboration**             | Working effectively with team members and contributing to group tasks                            | ✅    | ☐    | ☐        |
+| 9   | **Professional Conduct**           | Respectful behavior towards colleagues, partners, and the workplace                              | ✅    | ☐    | ☐        |
+| 10  | **Problem-Solving Skills**         | Identifying issues, proposing solutions, and applying creativity                                 | ☐    | ✅    | ☐        |
+| 11  | **Contribution to Project/Team**   | Work effectiveness, initiative, and recognition from the team                                    | ✅    | ☐    | ☐        |
+| 12  | **Overall Performance**            | General assessment of the entire internship experience                                            | ✅    | ☐    | ☐        |
+
+### Areas for Improvement
+
+* Improve communication skills and actively share updates and feedback with team members.  
+* Strengthen discipline in adhering to schedules and internal workflows.  
+* Continue developing clearer and more confident communication in daily interactions and professional settings.
