@@ -281,3 +281,6 @@ Nền tảng được triển khai dưới dạng kiến trúc serverless hoàn 
 * Tăng tốc độ hiểu hợp đồng và giảm rủi ro pháp lý cho người không chuyên.
 * Giảm đáng kể chi phí tư vấn pháp lý và thời gian rà soát thủ công.
 * Nền tảng SaaS có khả năng mở rộng, có thể phát triển thêm tính năng hoặc nhóm người dùng mới trong các giai đoạn sau.
+
+Proposal chi tiết
+[Proposal chi tiết](https://drive.google.com/file/d/1K6FxiQEGdiqWFMuallG2c9LgP4T8sh4C/view?usp=sharing)
