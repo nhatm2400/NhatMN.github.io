@@ -68,7 +68,7 @@ Try the M8i and M8i-flex instances in the [Amazon EC2 Console](https://console.a
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/channy.jpg"
+    <img src="/images/3-Blog/channy.jpg"
          alt="Channy Yun"
          style="max-width:100%; height:auto; display:block;">
   </div>

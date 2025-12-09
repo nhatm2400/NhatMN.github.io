@@ -218,7 +218,4 @@ pre: " <b> 4.1. </b> "
 
 ### **Event Photos**
 
-![](/images/event/img1.jpg)  
-![](/images/event/img2.jpg)  
-![](/images/event/img3.jpg)  
-![](/images/event/img4.jpg)
+![Image](/images/4-Event/4.3-AWS/1.jpg)

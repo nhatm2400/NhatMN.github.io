@@ -25,7 +25,7 @@ To expand the range of computational experiments, our team integrated cuQuantum 
 To evaluate the performance of the qutip-cuquantum plugin, we simulated a superconducting transmon qubit capacitively coupled to a resonator and driven by a microwave pulse. The system operates in the dispersive regime, where the qubit-resonator coupling strength is much smaller than their detuning. This configuration is a standard approach for qubit readout in superconducting processors. In principle, increasing the microwave drive amplitude can shorten measurement time. In practice, however, it often induces unwanted qubit state transitions, pushing the system beyond the computational subspace. Accurately capturing these effects requires modeling many qubit and resonator states, dramatically increasing the size of the Hilbert space and making the dynamics simulation computationally demanding. Here, we report results for systems with 512 resonator states and 32 or 64 qubit states, with the full Hamiltonian constructed in QuTiP.
 
 <p align="center">
-  <img src="/images/1.png"
+  <img src="/images/3-Blog/1.png"
        alt="Circuit diagram of the simulated system"
        style="max-width: 320px;">
 </p>
@@ -46,7 +46,7 @@ TAGS: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon-
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/boris.jpg"
+    <img src="/images/3-Blog/boris.jpg"
          alt="Boris Varbanov"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -72,7 +72,7 @@ TAGS: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon-
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/BenchenHuang.png"
+    <img src="/images/3-Blog/BenchenHuang.png"
          alt="Benchen Huang"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -94,7 +94,7 @@ TAGS: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon-
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/eric.png"
+    <img src="/images/3-Blog/eric.png"
          alt="Éric Giguère"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -115,7 +115,7 @@ TAGS: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon-
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/jin-sung.jpg"
+    <img src="/images/3-Blog/jin-sung.jpg"
          alt="Jin-Sung Kim"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -138,7 +138,7 @@ TAGS: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon-
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/image004-1.jpg"
+    <img src="/images/3-Blog/image004-1.jpg"
          alt="Khaldoon Ghanem"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -164,7 +164,7 @@ TAGS: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon-
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/tyle.png"
+    <img src="/images/3-Blog/tyle.png"
          alt="Tyler Takeshita"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -189,7 +189,7 @@ TAGS: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon-
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/timo.png"
+    <img src="/images/3-Blog/timo.png"
          alt="Timothy Brown"
          style="max-width:100%; height:auto; display:block;">
   </div>

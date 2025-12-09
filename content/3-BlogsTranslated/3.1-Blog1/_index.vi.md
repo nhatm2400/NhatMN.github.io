@@ -25,7 +25,7 @@ QuTiP là một bộ công cụ mã nguồn mở dùng để mô phỏng động
 Để đánh giá hiệu suất của plugin qutip-cuquantum, chúng tôi mô phỏng một qubit transmon siêu dẫn được ghép nối điện dung với một bộ cộng hưởng, được điều khiển bởi xung vi sóng. Hệ thống được vận hành trong chế độ phân tán, trong đó cường độ ghép nối qubit-bộ cộng hưởng nhỏ hơn nhiều so với độ lệch tần số của chúng. Cấu hình này là phương pháp tiếp cận tiêu chuẩn để đo qubit trong các bộ xử lý siêu dẫn. Về nguyên tắc, việc tăng biên độ điều khiển vi sóng có thể rút ngắn thời gian đo. Tuy nhiên, trên thực tế, điều này thường gây ra các chuyển đổi trạng thái qubit không mong muốn, kích thích hệ thống vượt xa không gian con tính toán. Việc nắm bắt chính xác những hiệu ứng này trong mô phỏng đòi hỏi phải xem xét nhiều trạng thái qubit và bộ cộng hưởng, điều này mở rộng kích thước không gian Hilbert của hệ thống và do đó làm cho việc mô phỏng động lực học của một hệ thống như vậy đòi hỏi tính toán cao. Ở đây, chúng tôi báo cáo kết quả mô phỏng cho các hệ thống có 512 trạng thái cộng hưởng và 32 và 64 trạng thái qubit, với Hamiltonian đầy đủ được xây dựng bằng QuTiP.
 
 <p align="center">
-  <img src="/images/pipeline.png"
+  <img src="/images/3-Blog/pipeline.png"
        alt="Sơ đồ mạch của hệ thống được mô phỏng"
        style="max-width: 320px;">
 </p>
@@ -47,7 +47,7 @@ THẺ: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/boris.jpg"
+    <img src="/images/3-Blog/boris.jpg"
          alt="Boris Varbanov"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -70,7 +70,7 @@ THẺ: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/BenchenHuang.png"
+    <img src="/images/3-Blog/BenchenHuang.png"
          alt="Benchen Huang"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -91,7 +91,7 @@ THẺ: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/eric.png"
+    <img src="/images/3-Blog/eric.png"
          alt="Éric Giguère"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -112,7 +112,7 @@ THẺ: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/jin-sung.jpg"
+    <img src="/images/3-Blog-jin-sung.jpg"
          alt="Jin-Sung Kim"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -134,7 +134,7 @@ THẺ: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/image004-1.jpg"
+    <img src="/images/3-Blog/image004-1.jpg"
          alt="Khaldoon Ghanem"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -158,7 +158,7 @@ THẺ: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/tyle.png"
+    <img src="/images/3-Blog/tyle.png"
          alt="Tyler Takeshita"
          style="max-width:100%; height:auto; display:block;">
   </div>
@@ -182,7 +182,7 @@ THẺ: [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/tag/amazon
 <div style="display:flex; align-items:flex-start; gap:1.75rem; margin:2rem 0;">
 
   <div style="flex:0 0 220px;">
-    <img src="/images/timo.png"
+    <img src="/images/3-Blog/timo.png"
          alt="Timothy Brown"
          style="max-width:100%; height:auto; display:block;">
   </div>
