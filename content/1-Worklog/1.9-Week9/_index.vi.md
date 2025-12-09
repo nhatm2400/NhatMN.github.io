@@ -11,7 +11,7 @@ pre: " <b> 1.9. </b> "
 
 * Thiết kế hệ thống (System Design): Xây dựng kiến trúc Backend và mô hình hóa luồng dữ liệu **(Data Flow)** của dự án.
 * Triển khai tầng dữ liệu (Data Layer): Thiết lập hạ tầng lưu trữ và cơ sở dữ liệu trên AWS **(S3, DynamoDB)**.
-* *ảo mật và Vận hành: Cấu hình **IAM** và các chính sách bảo mật cần thiết để chuẩn bị cho việc Deployment.
+* Bảo mật và Vận hành: Cấu hình **IAM** và các chính sách bảo mật cần thiết để chuẩn bị cho việc Deployment.
 * Phát triển dự án: Phối hợp nhóm để thống nhất giải pháp kỹ thuật và tiến độ.
 
 ### Các công việc cần triển khai trong tuần này:

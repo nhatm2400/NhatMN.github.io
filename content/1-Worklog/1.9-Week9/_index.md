@@ -7,10 +7,10 @@ pre: " <b> 1.9. </b> "
 
 ### Week 9 Goals:
 
-* **System Design:** Build the Backend architecture and model the project’s **Data Flow**.
-* **Data Layer Deployment:** Set up storage and database infrastructure on AWS **(S3, DynamoDB)**.
-* **Security & Operations:** Configure **IAM** and necessary security policies in preparation for Deployment.
-* **Project Development:** Collaborate with the team to align technical solutions and track progress.
+* System Design: Build the Backend architecture and model the project’s **Data Flow**.
+* Data Layer Deployment: Set up storage and database infrastructure on AWS **(S3, DynamoDB)**.
+* Security & Operations: Configure **IAM** and necessary security policies in preparation for Deployment.
+* Project Development: Collaborate with the team to align technical solutions and track progress.
 
 ### Tasks to be completed this week:
 | Day | Task                                                                                                                                                                  | Start Date | Completion Date | References |
