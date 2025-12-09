@@ -5,13 +5,17 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian thực tập tại **CÔNG TY TNHH AMAZON WEB SERVICES VIỆT NAM** từ ngày **06/09/2025** đến ngày **[ngày kết thúc]**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
+Trong 12 tuần tham gia chương trình **AWS First Cloud Journey**, em đã có cơ hội học tập và thực hành trực tiếp các dịch vụ cốt lõi của AWS trong môi trường làm việc chuyên nghiệp. Em xây dựng nền tảng vững chắc với EC2, VPC, S3, Cloud9, IAM, RDS, CloudWatch và DynamoDB thông qua các bài lab triển khai hạ tầng, cấu hình bảo mật, giám sát hệ thống và tối ưu vận hành. Bên cạnh đó, em thực hiện nhiều bài tập nâng cao như VPN Site-to-Site, Transit Gateway, VPC Peering, VPC Endpoints, ElastiCache (Redis) và Migration VM On-premise ↔ AWS, đồng thời triển khai website tĩnh bằng S3 + CloudFront và cài đặt WordPress theo kiến trúc public–private subnet. Những trải nghiệm này giúp em hiểu rõ cách AWS tổ chức tài nguyên, cơ chế mạng, bảo mật và quy trình vận hành thực tế.
 
-Tôi đã tham gia **Team TEEJ**, qua đó cải thiện kỹ năng **lập trình BACKEND, phân tích, viết báo cáo, giao tiếp**.  
+Em đã tham gia xây dựng ứng dụng Smart Contract Assistant (Trợ lí hợp đồng thông minh). Qua quá trình này, em đã tích lũy được những kinh nghiệm cụ thể:
 
-Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.
+* Về kỹ thuật: Em nắm vững cách vận hành và tích hợp các dịch vụ AWS cốt lõi như AWS Lambda, API Gateway và DynamoDB; thực hành triển khai hạ tầng theo mô hình Infrastructure as Code (IaC); đồng thời xây dựng quy trình CI/CD giúp tự động hóa việc kiểm thử và triển khai ứng dụng.
 
-Để phản ánh một cách khách quan quá trình thực tập, tôi xin tự đánh giá bản thân dựa trên các tiêu chí dưới đây:
+* Về tư duy: Em hình thành tư duy thiết kế hệ thống có khả năng mở rộng, vận hành ổn định và bắt đầu tiếp cận các phương pháp tối ưu hóa chi phí trong môi trường Cloud.
+
+* Về kỹ năng mềm: Em rèn luyện kỹ năng làm việc nhóm trong môi trường Agile/Scrum, tăng cường kỹ năng quản lý công việc, phối hợp nhóm và báo cáo tiến độ một cách minh bạch, chuyên nghiệp.
+
+Để phản ánh một cách khách quan quá trình thực tập, em xin tự đánh giá bản thân dựa trên các tiêu chí dưới đây:
 
 | STT | Tiêu chí                            | Mô tả                                                                                            | Tốt | Khá | Trung bình |
 | --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | --- | --- | ---------- |
