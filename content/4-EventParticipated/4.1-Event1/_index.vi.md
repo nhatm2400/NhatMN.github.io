@@ -7,14 +7,14 @@ pre: " <b> 4.1. </b> "
 
 
 
-### **Vietnam Cloud Day 2025: Ho Chi Minh City Connect Edition for Builders”**
+### Vietnam Cloud Day 2025: Ho Chi Minh City Connect Edition for Builders”
 
-### **Thông tin Sự Kiện**
+### Thông tin Sự Kiện
 - **Thời gian:** Thứ Năm, ngày 18 tháng 9 năm 2025, 9:00 - 17:00
 - **Địa điểm:** Thành phố Hồ Chí Minh
 - **Vai trò:** Người tham dự
 
-### **Mục Đích của Sự kiện**
+### Mục Đích của Sự kiện
 
 - Keynote mở màn: AWS giới thiệu định hướng chiến lược cho Việt Nam và cơ hội cho builder trẻ.
 - Trình bày xu hướng **Agentic AI** và chiến lược của AWS trong giai đoạn mới.
@@ -24,7 +24,7 @@ pre: " <b> 4.1. </b> "
 - Nêu bật các nguyên tắc bảo mật, quản trị rủi ro và Responsible AI.
 - Giới thiệu những dịch vụ AWS mới dành cho AI Agents và doanh nghiệp.
 
-### **Danh Sách Diễn Giả**
+### Danh Sách Diễn Giả
 
 - **Hon.** - Government Speaker
 - **Eric Yeo** - Country General Manager, Vietnam, Cambodia, Laos & Myanmar, AWS
@@ -42,16 +42,16 @@ pre: " <b> 4.1. </b> "
 - **Taiki Dang** – Solutions Architect, AWS  
 - **Christal Poon** – Specialist Solutions Architect, AWS
 
-### **Nội Dung Nổi Bật**
+### Nội Dung Nổi Bật
 
-### **Opening – Agentic AI Overview – Jun Kai Loke**
+### Opening – Agentic AI Overview – Jun Kai Loke
 
-#### **Xu hướng Agentic AI**
+#### Xu hướng Agentic AI
 
 - Agentic AI đại diện cho thế hệ AI mới, hướng đến hệ thống tự động vận hành và giảm sự giám sát trực tiếp từ con người.  
 - Các ví dụ triển khai thực tế: Katalon, Apero, Techcom Securities.
 
-#### **Amazon Bedrock – Nền tảng AI doanh nghiệp**
+#### Amazon Bedrock – Nền tảng AI doanh nghiệp
 
 - Bảo mật ở quy mô lớn  
 - Tích hợp tool & memory  
@@ -59,20 +59,20 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Building a Unified Data Foundation on AWS – Kien Nguyen**
+### Building a Unified Data Foundation on AWS – Kien Nguyen
 
-#### **Những thách thức chính**
+#### Những thách thức chính
 
 - 89% CDO triển khai GenAI nhưng chỉ 52% đánh giá nền tảng dữ liệu của họ đủ sẵn sàng.  
 - Các silo về dữ liệu, con người và vận hành là nguyên nhân cốt lõi.
 
-#### **Mô hình dữ liệu End-to-End gồm 3 lớp:**
+#### Mô hình dữ liệu End-to-End gồm 3 lớp:
 
 - **Producers**  
 - **Foundations**  
 - **Consumers**
 
-#### **Các thành phần dữ liệu trọng yếu trên AWS**
+#### Các thành phần dữ liệu trọng yếu trên AWS
 
 - **Amazon Bedrock**  
 - **Hệ cơ sở dữ liệu** – RDS và các DB hỗ trợ vector search  
@@ -83,7 +83,7 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **GenAI Roadmap & AI Agents Architecture – Jun Kai Loke & Tamelly Lim**
+### GenAI Roadmap & AI Agents Architecture – Jun Kai Loke & Tamelly Lim
 
 - Khung xây dựng Agents gồm năng lực mô hình, khả năng ứng dụng và bộ công cụ hỗ trợ.
 - Một số thành phần nổi bật:
@@ -92,7 +92,7 @@ pre: " <b> 4.1. </b> "
   - **Strands Agents**
   - **Bedrock AgentCore**
 
-#### **AgentCore bao gồm:**
+#### AgentCore bao gồm:
 
 - Agent Core Runtime  
 - Agent Core Gateway  
@@ -104,14 +104,14 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **AI-Driven Development Lifecycle (AI-DLC) – Binh Tran**
+### AI-Driven Development Lifecycle (AI-DLC) – Binh Tran
 
-#### **Hai mô hình phát triển hiện nay**
+#### Hai mô hình phát triển hiện nay
 
 - **AI Managed Pattern** – Ít giám sát, độ tin cậy phụ thuộc vào mô hình  
 - **AI Assisted Pattern** – AI hỗ trợ theo từng tác vụ
 
-#### **Ba giai đoạn của AI-DLC**
+#### Ba giai đoạn của AI-DLC
 
 1. **Inception** – Xây dựng context, user stories, lập kế hoạch bằng work units  
 2. **Construction** – Lập trình, kiểm thử, bổ sung kiến trúc, dùng IaC + test  
@@ -119,9 +119,9 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Securing Generative AI Applications – Taiki Dang**
+### Securing Generative AI Applications – Taiki Dang
 
-#### **Các yếu tố bảo mật trọng yếu**
+#### Các yếu tố bảo mật trọng yếu
 
 - Compliance & Governance  
 - Legal & Privacy  
@@ -129,7 +129,7 @@ pre: " <b> 4.1. </b> "
 - Risk Management  
 - Resilience
 
-#### **Scoping matrix**
+#### Scoping matrix
 
 - Consumer Apps  
 - Enterprise Apps  
@@ -137,7 +137,7 @@ pre: " <b> 4.1. </b> "
 - Fine-tuned Models  
 - Custom-trained Models  
 
-#### **Frameworks & tiêu chuẩn**
+#### Frameworks & tiêu chuẩn
 
 - AWS Well-Architected  
 - MITRE ATLAS  
@@ -146,13 +146,13 @@ pre: " <b> 4.1. </b> "
 - ISO 42001  
 - EU AI Act  
 
-#### **Các lớp rủi ro chính**
+#### Các lớp rủi ro chính
 
 - Consumer: IP, legal, hallucination  
 - Tuner: Data retention, môi trường managed  
 - Provider: Training data, quá trình xây dựng mô hình  
 
-#### **Giảm thiểu rủi ro**
+#### Giảm thiểu rủi ro
 
 - Prompt engineering  
 - Fine-tuning  
@@ -163,20 +163,20 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Beyond Automation: AI Agents as Productivity Multipliers – Christal Poon**
+### Beyond Automation: AI Agents as Productivity Multipliers – Christal Poon
 
-#### **Các dạng AI Agents**
+#### Các dạng AI Agents
 
 - Specialized Agents  
 - Fully-managed Agents  
 - DIY Agents  
 
-#### **Dịch vụ nâng cao năng suất**
+#### Dịch vụ nâng cao năng suất
 
 - **Amazon QuickSight**  
 - **Amazon Q** – Dashboards, reports, summaries, automation
 
-#### **Sắp ra mắt tại Việt Nam – QuickSuite**
+#### Sắp ra mắt tại Việt Nam – QuickSuite
 
 - Quick Researcher  
 - Quick Automate  
@@ -184,7 +184,7 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Những Gì Học Được**
+### Những Gì Học Được
 
 - Nắm rõ hệ sinh thái Agentic AI và roadmap của AWS.  
 - Dữ liệu là nền tảng cốt lõi của GenAI: S3, Iceberg, Redshift, Bedrock, SageMaker đóng vai trò chủ đạo.  
@@ -194,7 +194,7 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Ứng Dụng Vào Công Việc**
+### Ứng Dụng Vào Công Việc
 
 - Tích hợp AI Agents vào quy trình vận hành.  
 - Dùng Bedrock, Amazon Q, Guardrails để kiểm soát chất lượng và an toàn.  
@@ -204,7 +204,7 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Trải Nghiệm Tại Sự Kiện**
+### Trải Nghiệm Tại Sự Kiện
 
 - Workshop cung cấp góc nhìn rõ ràng về sự chuyển dịch từ automation truyền thống sang **Agentic AI**.  
 - Các diễn giả chia sẻ thông tin thực tiễn và định hướng rõ ràng cho thị trường GenAI Việt Nam.  
@@ -212,6 +212,6 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Một số hình ảnh tại sự kiện**
+### Một số hình ảnh tại sự kiện
 
 ![Image](/images/4-Event/4.3-AWS/1.jpg)

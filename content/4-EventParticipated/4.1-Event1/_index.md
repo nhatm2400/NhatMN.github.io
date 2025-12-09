@@ -5,16 +5,16 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-### **Vietnam Cloud Day 2025: Ho Chi Minh City Connect Edition for Builders**  
+### Vietnam Cloud Day 2025: Ho Chi Minh City Connect Edition for Builders  
 
 ---
 
-### **Event Information**
+### Event Information
 - **Date & Time:** Thursday, September 18, 2025, 9:00 AM – 5:00 PM  
 - **Location:** Ho Chi Minh City  
 - **Role:** Attendee  
 
-### **Event Objectives**
+### Event Objectives
 
 - Opening keynote: AWS presented its strategic vision for Vietnam and opportunities for young builders.  
 - Introduced the rise of **Agentic AI** and AWS’s strategy for the next phase.  
@@ -24,7 +24,7 @@ pre: " <b> 4.1. </b> "
 - Highlighted security principles, risk governance, and Responsible AI practices.  
 - Introduced new AWS services for AI Agents and enterprise productivity.
 
-### **Speaker List**
+### Speaker List
 
 - **Hon.** – Government Speaker  
 - **Eric Yeo** – Country General Manager, Vietnam, Cambodia, Laos & Myanmar, AWS  
@@ -44,18 +44,18 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Key Highlights**
+### Key Highlights
 
 ---
 
-### **Opening – Agentic AI Overview – Jun Kai Loke**
+### Opening – Agentic AI Overview – Jun Kai Loke
 
-#### **Agentic AI Trends**
+#### Agentic AI Trends
 
 - Agentic AI represents the next evolution of AI—focusing on autonomous systems that reduce human supervision.  
 - Real-world examples: Katalon, Apero, Techcom Securities.
 
-#### **Amazon Bedrock – Enterprise AI Platform**
+#### Amazon Bedrock – Enterprise AI Platform
 
 - Enterprise-grade security  
 - Tool + memory integration  
@@ -63,20 +63,20 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Building a Unified Data Foundation on AWS – Kien Nguyen**
+### Building a Unified Data Foundation on AWS – Kien Nguyen
 
-#### **Key Challenges**
+#### Key Challenges
 
 - 89% of CDOs have initiated GenAI adoption, but only 52% believe their data foundation is ready.  
 - Data, people, and operational silos are the primary barriers.
 
-#### **Three layers of an End-to-End Data Architecture**
+#### Three layers of an End-to-End Data Architecture
 
 - **Producers**  
 - **Foundations**  
 - **Consumers**
 
-#### **Critical AWS Data Components**
+#### Critical AWS Data Components
 
 - **Amazon Bedrock**  
 - **Databases** – RDS and vector-capable databases  
@@ -87,7 +87,7 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **GenAI Roadmap & AI Agents Architecture – Jun Kai Loke & Tamelly Lim**
+### GenAI Roadmap & AI Agents Architecture – Jun Kai Loke & Tamelly Lim
 
 - The Agent framework includes model capabilities, application abilities, and tool integration.  
 - Key components introduced:
@@ -96,7 +96,7 @@ pre: " <b> 4.1. </b> "
   - **Strands Agents**  
   - **Bedrock AgentCore**
 
-#### **AgentCore includes:**
+#### AgentCore includes:
 
 - Agent Core Runtime  
 - Agent Core Gateway  
@@ -108,14 +108,14 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **AI-Driven Development Lifecycle (AI-DLC) – Binh Tran**
+### AI-Driven Development Lifecycle (AI-DLC) – Binh Tran
 
-#### **Two Development Patterns Today**
+#### Two Development Patterns Today
 
 - **AI Managed Pattern** – Minimal supervision; reliability depends heavily on the model  
 - **AI Assisted Pattern** – AI supports individual tasks rather than whole workflows
 
-#### **Three AI-DLC Stages**
+#### Three AI-DLC Stages
 
 1. **Inception** – Context building, user stories, planning work units  
 2. **Construction** – Coding, testing, architectural refinement, IaC + validation  
@@ -123,9 +123,9 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Securing Generative AI Applications – Taiki Dang**
+### Securing Generative AI Applications – Taiki Dang
 
-#### **Core Security Considerations**
+#### Core Security Considerations
 
 - Compliance & Governance  
 - Legal & Privacy  
@@ -133,7 +133,7 @@ pre: " <b> 4.1. </b> "
 - Risk Management  
 - Resilience  
 
-#### **Scoping Matrix**
+#### Scoping Matrix
 
 - Consumer Apps  
 - Enterprise Apps  
@@ -141,7 +141,7 @@ pre: " <b> 4.1. </b> "
 - Fine-tuned Models  
 - Custom-trained Models  
 
-#### **Frameworks & Standards**
+#### Frameworks & Standards
 
 - AWS Well-Architected  
 - MITRE ATLAS  
@@ -150,13 +150,13 @@ pre: " <b> 4.1. </b> "
 - ISO 42001  
 - EU AI Act  
 
-#### **Major Risk Layers**
+#### Major Risk Layers
 
 - Consumer: IP, legal, hallucination risks  
 - Tuner: Data retention, managed infrastructure concerns  
 - Provider: Training datasets, model construction  
 
-#### **Risk Mitigation Techniques**
+#### Risk Mitigation Techniques
 
 - Prompt engineering  
 - Fine-tuning  
@@ -167,20 +167,20 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Beyond Automation: AI Agents as Productivity Multipliers – Christal Poon**
+### Beyond Automation: AI Agents as Productivity Multipliers – Christal Poon
 
-#### **Types of AI Agents**
+#### Types of AI Agents
 
 - Specialized Agents  
 - Fully-managed Agents  
 - DIY Agents  
 
-#### **Enterprise Productivity Tools**
+#### Enterprise Productivity Tools
 
 - **Amazon QuickSight**  
 - **Amazon Q** – Dashboards, reports, summaries, task automation  
 
-#### **Coming Soon to Vietnam – QuickSuite**
+#### Coming Soon to Vietnam – QuickSuite
 
 - Quick Researcher  
 - Quick Automate  
@@ -188,7 +188,7 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Key Takeaways**
+### Key Takeaways
 
 - Clear understanding of the Agentic AI ecosystem and AWS roadmap.  
 - Recognizing that data foundations (S3, Iceberg, Redshift, Bedrock, SageMaker) are the backbone of GenAI.  
@@ -198,7 +198,7 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Applications to Work**
+### Applications to Work
 
 - Integrating AI Agents into operational workflows.  
 - Using Bedrock, Amazon Q, and Guardrails to ensure safety and quality.  
@@ -208,7 +208,7 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Event Experience**
+### Event Experience
 
 - The workshop provided a clear view of the shift from traditional automation to **Agentic AI**.  
 - Speakers offered practical insights and directional guidance for Vietnam’s GenAI journey.  
@@ -216,6 +216,6 @@ pre: " <b> 4.1. </b> "
 
 ---
 
-### **Event Photos**
+### Event Photos
 
 ![Image](/images/4-Event/4.3-AWS/1.jpg)

@@ -8,7 +8,6 @@ pre: " <b> 4.2. </b> "
 
 ### AI/ML/GenAI on AWS
 
----
 
 ### I. Thông tin chung về sự kiện
 
