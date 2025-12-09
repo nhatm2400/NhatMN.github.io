@@ -25,7 +25,7 @@ To expand the range of computational experiments, our team integrated cuQuantum 
 To evaluate the performance of the qutip-cuquantum plugin, we simulated a superconducting transmon qubit capacitively coupled to a resonator and driven by a microwave pulse. The system operates in the dispersive regime, where the qubit-resonator coupling strength is much smaller than their detuning. This configuration is a standard approach for qubit readout in superconducting processors. In principle, increasing the microwave drive amplitude can shorten measurement time. In practice, however, it often induces unwanted qubit state transitions, pushing the system beyond the computational subspace. Accurately capturing these effects requires modeling many qubit and resonator states, dramatically increasing the size of the Hilbert space and making the dynamics simulation computationally demanding. Here, we report results for systems with 512 resonator states and 32 or 64 qubit states, with the full Hamiltonian constructed in QuTiP.
 
 <p align="center">
-  <img src="/images/3-Blog/1.png"
+  <img src="/images/3-Blog/pipeline.png"
        alt="Circuit diagram of the simulated system"
        style="max-width: 320px;">
 </p>
