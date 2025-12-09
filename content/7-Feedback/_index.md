@@ -6,25 +6,50 @@ pre: " <b> 7. </b> "
 ---
 
 
-### Overall Evaluation
+## Overall Evaluation After the FCJ Internship
 
-**1. Working Environment**  
-The working environment is very friendly and open. FCJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+During my participation in the **AWS First Cloud Journey** program, I had the opportunity to learn and work in a professional yet friendly environment. The flat culture, mutual respect, and strong support from the team helped me quickly adapt from the very first days. The FCJ members were always willing to provide guidance whenever I faced difficulties, even outside working hours if needed. The spacious and comfortable workspace allowed me to stay focused and productive; although sometimes a bit crowded, the atmosphere remained energetic and positive.
 
-**2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+### 1. Technical Growth & Skill Development
+Over the past three months, I have experienced significant professional growth. I gained solid knowledge of core AWS services such as **EC2, S3, RDS, IAM, VPC, DynamoDB, CloudWatch**, and became familiar with **Infrastructure as Code** using Terraform—tools that I previously understood only at a theoretical level.  
+One major difference between academic learning and real-world projects is the emphasis on **cost optimization**, **security**, and **scalability**, which helped me better understand how enterprise systems operate.  
+One of the most memorable challenges was performing a **database migration from on-premise to AWS** without disrupting the existing service—an experience that provided valuable lessons in system design and deployment.
 
-**3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+### 2. Mentor & Working Style
+My mentor followed a **coaching-style approach**, asking guiding questions instead of giving direct answers. Although it was challenging at first, I gradually realized this approach strengthened my problem-solving mindset and deepened my understanding.  
+I also learned a great deal from observing how my mentor handled **incidents**: staying calm, analyzing logs, narrowing down the root cause, and only then implementing a fix. These are real-world skills that university education often does not cover but are essential in industry settings.  
+Additionally, the **admin team** provided excellent support throughout my internship, from onboarding materials to helping resolve technical issues.
 
-**4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+### 3. Soft Skills & Workflow
+Through the **Agile/Scrum** workflow, daily/weekly meetings, and code reviews, I significantly improved my soft skills:
+- Effective teamwork in project environments.  
+- Clear task management and transparent progress reporting.  
+- Communication skills, especially asking precise and relevant questions.  
+- Writing cleaner, more structured code thanks to mentor feedback.
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+### 4. Culture & Team Spirit
+FCJ fosters a highly positive culture where everyone is respectful, open, and willing to share their experiences.  
+Internal workshops and technical events expanded my understanding of Cloud and AWS, from foundational concepts to advanced topics in AI/ML.  
+Even as an intern, I always felt like a true member of the team.
 
-**6. Internship Policies / Benefits**  
-The company supports and facilitates working hours when needed. In addition, the job of participating in internal training sessions is a big plus.
+### 5. Role Fit & Development Opportunities
+The tasks I worked on were highly aligned with my AI–Cloud background while also exposing me to areas that university programs rarely dive deep into, such as:
+- CI/CD,  
+- Advanced Cloud Networking,  
+- Cost Optimization,  
+- Clean Architecture & CloudOps.  
+
+These experiences helped me clarify my long-term career direction in Cloud and AI.
+
+### 6. Reflection & Suggestions
+**Most valuable lesson:** every mistake on the Cloud has a financial cost. A single forgotten resource taught me an unforgettable lesson.  
+**Suggestions for improvement:**  
+- I hope to have more workshops on **technical documentation writing**, as this is a common weakness among interns.  
+- More **team bonding activities** would help strengthen connections among members.
+
+---
+
+**I would like to express my sincere gratitude to my mentor, the admin team, and the entire FCJ program for accompanying and providing me with such a meaningful, valuable, and memorable internship experience.**
 
 
 
