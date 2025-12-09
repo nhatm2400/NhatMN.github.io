@@ -4,7 +4,7 @@ weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
-### **Tăng tốc Bộ công cụ Lượng tử cho Python (QuTiP) với cuQuantum trên AWS**
+# **Tăng tốc Bộ công cụ Lượng tử cho Python (QuTiP) với cuQuantum trên AWS**
 
 **bởi Boris Varbanov, Benchen Huang, Éric Giguère, Jin-Sung Kim, Khaldoon Ghanem, Tyler Takeshita và Timothy Brown | 9 THÁNG 8 NĂM 2025 | trong [Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/category/quantum-technologies/amazon-braket/) , [Quantum Technologies](https://aws.amazon.com/blogs/quantum-computing/category/quantum-technologies/)**
 
